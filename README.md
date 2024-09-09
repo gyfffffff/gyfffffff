@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gyfffffff
-- 📫 charon0707@163.com
+- 📫 0707charon@gmail.com
 
 <!---
 gyfffffff/gyfffffff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
